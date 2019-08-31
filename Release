@@ -1,12 +1,12 @@
-Origin: nullpixel's Repo
+Origin: dynamic-repo
 
-Label: nullpixel's Repo
+Label:Dynamic Repo
 
 Suite: stable
 
 Version: 1.0
 
-Codename: dslk
+Codename: dr
 
 Architectures: iphoneos-arm
 
