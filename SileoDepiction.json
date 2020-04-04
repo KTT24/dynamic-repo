@@ -11,7 +11,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Test",
+                    "markdown": "A new kind of next generation packag manager for a new kind of people",
                     "useSpacing": true
                 },
                 {
@@ -30,7 +30,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "Test",
+                    "markdown": "A new kind of next generation packag manager for a new kind of people",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
