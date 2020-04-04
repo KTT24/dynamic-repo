@@ -6,7 +6,7 @@
         {  
             "url":"https://i.imgur.com/QtctDdI.jpg",
             "title":"Seditave",
-            "package":"bundle id of package",
+            "package":"co.dynastic.tsssaver",
             "hideShadow":false
          }
     ]
