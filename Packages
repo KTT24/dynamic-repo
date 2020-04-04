@@ -14,6 +14,6 @@ Section: Packaging
 Description: A one-click tool to save blobs using TSSsaver.1conan.com
 Author: Jamie Bishop <jamie@dynastic.co>
 Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
-SileoDepiction: https://cf2f2c8c-e0ba-45ac-9bd3-94e657bc0757.ws-us02.gitpod.io/files/download/?id=d3ff1d27-1111-45a0-b3f3-0f82b9739fd4
+SileoDepiction: https://github.com/KTT24/dynamic-repo/blob/3e0193da05ad2f0590da1a9eb3fc05af169ec790/SileoDepiction.json
 Name: TSS Saver
 

@@ -5,13 +5,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Fusix",
+                    "title": "Sedaitve",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "A next Generation Package Manger",
+                    "markdown": "Test",
                     "useSpacing": true
                 },
                 {
@@ -30,7 +30,7 @@
                     "itemCornerRadius": 6
                 },
                 {
-                    "markdown": "A next Generation Package Manger",
+                    "markdown": "Test",
                     "class": "DepictionMarkdownView",
                     "title": "markdown-description",
                     "useBoldText": true,
@@ -59,7 +59,7 @@
                     "class": "DepictionSpacerView"
                 },
                 {
-                    "text": "KTT24",
+                    "text": "Sedaitve Team",
                     "class": "DepictionTableTextView",
                     "title": "Developer"
                 },
