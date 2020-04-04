@@ -2,7 +2,7 @@ Package: co.dynastic.tsssaver
 Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
 Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: Jamie Bishop <jamie@dynastic.co>
+Maintainer: Sedative Team
 Installed-Size: 444
 Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
 Filename: deb/co.dynastic.TSSsaver.deb
@@ -11,9 +11,9 @@ MD5sum: fe2e43efaa390e4b81f100175ad1cddb
 SHA1: e669009b17ce74000712124861e4fc0f22d31386
 SHA256: 483f16008726c8882984f014565b921c443d4a39ebc036e1ada981584c7e0c59
 Section: Packaging
-Description: A one-click tool to save blobs using TSSsaver.1conan.com
+Description: Test
 Author: Jamie Bishop <jamie@dynastic.co>
 Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
-SileoDepiction: https://github.com/KTT24/dynamic-repo/blob/3e0193da05ad2f0590da1a9eb3fc05af169ec790/SileoDepiction.json
-Name: TSS Saver
+SileoDepiction: https://raw.githubusercontent.com/KTT24/dynamic-repo/master/SileoDepiction.json
+Name: Sedative
 

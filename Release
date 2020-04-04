@@ -1,6 +1,6 @@
-Origin: Dynamic Repo
+Origin: Cosmic Repo
 
-Label:Dynamic Repo
+Label: Cosmic Repo
 
 Suite: stable
 
@@ -16,4 +16,3 @@ Description: stuff
 
 MD5Sum:
 d5387f1b8998451700c6c2283db25ec3 3853 Packages
-36c3715e9aa80267858f9dc8709be371 1580 Packages.bz2
