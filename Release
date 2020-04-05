@@ -6,13 +6,13 @@ Suite: stable
 
 Version: 1.0
 
-Codename: dr
+Codename: cr
 
 Architectures: iphoneos-arm
 
 Components: main
 
-Description: stuff
+Description: idk
 
 MD5Sum:
 d5387f1b8998451700c6c2283db25ec3 3853 Packages
