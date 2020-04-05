@@ -12,7 +12,6 @@ SHA256: 483f16008726c8882984f014565b921c443d4a39ebc036e1ada981584c7e0c59
 Section: Packaging
 Description: A new kind of Package Manger
 Author: Seative Team
-
 SileoDepiction: https://raw.githubusercontent.com/KTT24/dynamic-repo/master/SileoDepiction.json
 Name: Sedative
 
