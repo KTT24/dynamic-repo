@@ -1,18 +1,8 @@
-Origin: Cosmic Repo
-
-Label: Cosmic Repo
-
+Origin: Sediment Repo
+Label: Sediment Repo
+Codename: ios
 Suite: stable
-
 Version: 1.0
-
-Codename: cr
-
-Architectures: iphoneos-arm
-
+Architecture: iphoneos-arm
 Components: main
-
-Description: idk
-
-MD5Sum:
-d5387f1b8998451700c6c2283db25ec3 3853 Packages
+(B[m Description: The Sedimnet Repo
