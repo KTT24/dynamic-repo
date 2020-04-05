@@ -5,6 +5,10 @@ Maintainer: Sedative Team
 Installed-Size: 444
 Depends: firmware (>= 12.0)
 Filename: deb/com.asorobent.sedative_0.0.1-1+debug_iphoneos-arm.deb
+Size: 10000
+MD5sum: 00d1492c72803b3d650abcd8f19bf078
+SHA1: ac6c5e7a1594c485445e68fffe6252f9000db6e9
+SHA256: 81eaf9624a09637be6037e5f2f5e10cef7ccadaf0143885402d1c84bd223ebf2
 Section: Packaging
 Description: A new kind of Package Mangerv for a new kind of people
 Author: Seative Team
