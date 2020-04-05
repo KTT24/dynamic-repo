@@ -4,7 +4,7 @@
     "itemCornerRadius":10,
     "banners":[  
         {  
-            "url":"https://i.imgur.com/QtctDdI.jpg",
+            "url":"https://github.com/KTT24/dynamic-repo/blob/master/header.jpg?raw=true",
             "title":"Seditave",
             "package":"co.dynastic.tsssaver",
             "hideShadow":false
